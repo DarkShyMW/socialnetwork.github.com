@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\core",
+    "\\db",
+    "\\images",
+    "\\vendors"
   ],
+  "SelectedNode": "\\index.js",
   "PreviewInSolutionExplorer": false
 }

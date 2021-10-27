@@ -1,0 +1,22 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkShyMW/socialnetwork.github.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkShyMW/socialnetwork.github.com/issues"
+  },
+  "homepage": "https://github.com/DarkShyMW/socialnetwork.github.com#readme",
+  "dependencies": {
+    "nosql": "^6.1.0"
+  }
+}
